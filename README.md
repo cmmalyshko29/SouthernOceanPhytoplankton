@@ -4,15 +4,15 @@
 With the rising concern of the multitude of effects that humans have created on the environment, it has become of the utmost important to truly understand key planetary processes. One of the most understudied locations on our planet is the Southern Ocean surrounding Antarctica, due to its rough seas and remote locations. Of the many unknowns is the mechanisms behind the seasonal patterns of phytoplankton blooms dynamics. These blooms provide the world’s oceans with most of its food and helps to absorb excess CO2 from the atmosphere, so knowing their mechanics is extremely important. Through analysis of data provided from autonomous BioGeoChemical ARGO floats in the Bellingshausen Sea, it was found that chlorophyll a concentration and backscatter measurements were correlated. Seasonal blooms export carbon to the deep sea as these blooms decompose. These blooms are occurring before the peak warm periods of the summer months and can be greatly impacted by El Niño cycles and sea ice concentration. However, as climate change continues to grow, these impacts may worsen as well.
 <br />
 
-
-<h2>Data Sources and Coding Languages</h2>
+<h2>Data Sources</h2>
 
 - <b> Monterey Bay Aquarium Research Institute’s FloatViz 6.0 database </b>
 - <b> National Snow and Ice Data Center’s Sea Ice Index Visualization tool <b/>
+
+<h2> Coding Languages</h2>
+
 - <b>MATLAB</b>
 - <b>Text Editor</b>
-
-
 
 <h2> Figures From Thesis Report </h2>
 
@@ -42,8 +42,11 @@ With the rising concern of the multitude of effects that humans have created on 
 <ins> <b> Float Location in Relation to Sea Ice Extent: <br/>
 ![Image](https://github.com/user-attachments/assets/c654dbd5-42e5-48d6-bbf7-71e29f425705)
 
-* This figure represents the monthly sea ice extents from the coast of Antarctica into the Southern Ocean. The small icon represents where the float was in that month of the deployment. Yellow depicted no float to ice contact and green depicting float to ice contact. The white represents where the sea ice reached in that period and the pink line represents the median ice edge from 1981-2010. (Modified from NSIDC Sea Ice Index)*
+*This figure represents the monthly sea ice extents from the coast of Antarctica into the Southern Ocean. The small icon represents where the float was in that month of the deployment. Yellow depicted no float to ice contact and green depicting float to ice contact. The white represents where the sea ice reached in that period and the pink line represents the median ice edge from 1981-2010. (Modified from NSIDC Sea Ice Index)*
 
-<br />
+<br /> Annual Mean Sea Ice Extent in the Northern and Southern Hemisphere
+![Image](https://github.com/user-attachments/assets/e2cd3925-b3e3-4065-ba40-be78b5be3bd1)
+
+*This figure represents the average annual sea ice concentration variation in both the Arctic and Antarctic. For the study in particular, the red line of the Antarctic is highlighted for significance. There is strong evidence of interannual variability and each of the changes balanced out the following year. But as highlighted in the green box, post- 2013 Antarctic sea ice has reached a threshold and has not significantly increased.*
 
 
